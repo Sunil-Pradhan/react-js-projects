@@ -1,0 +1,20 @@
+https://chat.deepseek.com/a/chat/s/2438d357-7a4c-46b5-8698-c3eb949f3d22
+API: https://github.com/lukePeavey/quotable (Not working)
+https://quoteslate.vercel.app/
+https://github.com/Musheer360/QuoteSlate#deploying-on-vercel-easiest-for-high-volume-needs
+
+https://chatgpt.com/c/68944a53-9d18-8320-a15c-68206e66d1f2  - nextjs downgrade to react 18 help
+https://nextjs.org/docs/architecture/nextjs-compiler
+https://chat.deepseek.com/a/chat/s/e18b5f21-ead5-4e1d-861c-c3c62882208b
+https://chat.deepseek.com/a/chat/s/d197a32a-acfd-4a1e-990d-0bde0d1c1646
+https://chat.deepseek.com/a/chat/s/5a488208-05cd-4cac-b3be-6ef773920c7c
+https://chatgpt.com/c/689455aa-7f98-8324-9533-cfbee6be86b9
+https://chatgpt.com/c/68948745-03e4-8332-9b39-4253658f1bd7
+https://chat.deepseek.com/a/chat/s/b925d785-207d-4dfb-b73a-69ce8add4f26 - Try and catch 
+https://chat.deepseek.com/a/chat/s/cf45d585-33f1-42cb-a726-31bb4a66c235
+https://chat.qwen.ai/c/cd3ec980-68b8-45a8-8bf9-5074f6b0299a
+https://chat.deepseek.com/a/chat/s/a76df39d-ed66-4026-8e2c-3ee09379aafb
+https://chat.deepseek.com/a/chat/s/ce56bba9-c439-49ea-a36c-900659134202
+https://chat.deepseek.com/a/chat/s/2e807615-c9b0-438b-be0c-c75675c11f35
+https://chat.deepseek.com/a/chat/s/0c662fd8-a43d-4d76-970c-4169379b62c7
+https://chat.deepseek.com/a/chat/s/0bf3c7dd-4f22-4aeb-a53b-7597f2656a9f
