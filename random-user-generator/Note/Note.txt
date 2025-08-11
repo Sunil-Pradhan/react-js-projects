@@ -1,0 +1,13 @@
+Main: https://chat.deepseek.com/a/chat/s/d563ae4b-d4a8-4320-9e39-9199fdd86413
+https://chat.qwen.ai/c/aecad15b-f8e0-4692-a9e1-36953f477968
+https://chatgpt.com/c/68944a53-9d18-8320-a15c-68206e66d1f2  - nextjs downgrade to react 18 help
+https://nextjs.org/docs/app/api-reference/file-conventions/error
+https://chatgpt.com/c/68984368-8db0-8332-9f23-241a7534b6e0
+https://chat.deepseek.com/a/chat/s/8b34179b-b125-4b53-b98e-59d22f8a774b
+https://chat.deepseek.com/a/chat/s/a209f1a4-8178-42d0-b5da-4a89b6b1b638
+https://nextjs.org/docs/app/api-reference/file-conventions/loading
+https://chat.deepseek.com/a/chat/s/64b7a5dd-44dd-4740-a446-820105e8c486
+https://gemini.google.com/app/c4e880d9db4cd200
+https://gemini.google.com/app/3c519109fe6d6dba
+
+api: https://randomuser.me/
