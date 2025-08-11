@@ -1,0 +1,10 @@
+Main: https://chat.deepseek.com/a/chat/s/502df97b-9a00-4c03-bcc1-9ebe2395a444
+API: https://jsonplaceholder.typicode.com/todos
+https://nextjs.org/docs/app/api-reference/functions/redirect
+https://medium.com/@kyledeguzmanx/what-are-optimistic-updates-483662c3e171
+https://chat.deepseek.com/a/chat/s/f976efb8-ebda-4a58-a71f-58e1c93a1fe6
+
+https://chat.deepseek.com/a/chat/s/502df97b-9a00-4c03-bcc1-9ebe2395a444
+https://chat.qwen.ai/c/a5a6857a-debf-4f86-a52f-6e97495fd842
+https://chat.deepseek.com/a/chat/s/f969f725-3ea4-4b3d-b1cf-17d9a65d0863
+https://chat.deepseek.com/a/chat/s/f558b736-7189-4a67-9ba6-cbde1bcb61a4
