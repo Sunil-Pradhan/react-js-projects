@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Welcome Note",
+      "description": "This is your first note. You can edit or delete it.",
+      "createdAt": "2023-05-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Shopping List",
+      "description": "1. Milk\n2. Eggs\n3. Bread\n4. Fruits",
+      "createdAt": "2023-05-16T15:45:00Z"
+    }
+  ]
+}
