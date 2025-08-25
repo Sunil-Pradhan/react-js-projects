@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123",
+      "name": "John Doe"
+    },
+    {
+      "id": "6fdc",
+      "email": "pradhan.sunil@outlook.com",
+      "password": "123456"
+    },
+    {
+      "id": "3cc0",
+      "email": "yournapstar@gmail.com",
+      "password": "852"
+    },
+    {
+      "id": "ba67",
+      "email": "yournapstar@gmail.com",
+      "password": "sdfasdfsda"
+    },
+    {
+      "id": "66b4",
+      "email": "yournapstar@gmail.com",
+      "password": "6788"
+    },
+    {
+      "id": "de4a",
+      "email": "pradhan.sunil@outlook.com",
+      "password": "852"
+    },
+    {
+      "id": "8539",
+      "email": "yournapstar@gmail.com",
+      "password": "85"
+    },
+    {
+      "id": "5503",
+      "email": "yournapstar@gmail.com",
+      "password": "852"
+    },
+    {
+      "id": "5385",
+      "email": "yournapstar@gmail.com",
+      "password": "88"
+    },
+    {
+      "id": "80f9",
+      "email": "pradhan.sunil@outlook.com",
+      "password": "123456"
+    }
+  ]
+}
